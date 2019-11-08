@@ -1,2 +1,2 @@
-# lab-course-2
+# LED CHASER
 BEEE Lab Program Codes
